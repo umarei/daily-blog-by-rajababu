@@ -20,5 +20,5 @@ jobs:
         env:
           AWS_S3_BUCKET: daily-blog-by-rajababu
           AWS_REGION: US East (N. Virginia)
-          AWS_ACCESS_KEY_ID: AKIAX6W6C2BLHBTJHJ7S
-          AWS_SECRET_ACCESS_KEY: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
+          AWS_ACCESS_KEY_ID: private 1
+          AWS_SECRET_ACCESS_KEY:
