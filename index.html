@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Blog by Rajababu</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Daily Blog by Rajababu</h1>
+            <nav>
+                <ul>
+                    <li><a href="#" class="nav-link" data-target="home">Home</a></li>
+                    <li><a href="#" class="nav-link" data-target="about">About</a></li>
+                    <li><a href="#" class="nav-link" data-target="contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container" id="home">
+            <p>Hi, I am Umar Ejaz Imam, a 22-year-old undergrad student currently in my final year pursuing my bachelor's in Information Technology.</p>
+            <button id="load-posts">Load Posts</button>
+            <div id="blog-posts">
+                <!-- Blog posts will be loaded here -->
+            </div>
+        </div>
+        <div class="container" id="about" style="display:none;">
+            <p>This is a basic website I built to deploy on cloud platforms to get some hands-on experience on cloud technologies. I am also enthusiastic about DevOps and backend technologies. Follow me on <a href="https://www.linkedin.com/in/umarei26/" target="_blank">LinkedIn</a> to reach out and know more about me.</p>
+        </div>
+        <div class="container" id="contact" style="display:none;">
+            <div class="contact-info">
+                <a href="mailto:umarei26@gmail.com"><i class="fas fa-envelope"></i> umarei26@gmail.com</a>
+                <a href="tel:+918434113945"><i class="fas fa-phone"></i> +91 8434113945</a>
+                <a href="https://www.linkedin.com/in/umarei26/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Daily Blog by Rajababu</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
