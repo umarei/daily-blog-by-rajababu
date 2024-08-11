@@ -47,8 +47,6 @@
 
 For any inquiries, you can reach out to me:
 
-- **Email**: [umarejazimam69@gmail.com](mailto:umarejazimam69@gmail.com)
-- **Phone**: [+91 8434113945](tel:+918434113945)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/umarei26/)
 
 ## License
